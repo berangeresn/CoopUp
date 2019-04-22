@@ -1,0 +1,73 @@
+public class Cooperateur {
+	
+	private int id;
+	private String nom, prenom, email, password, societe, ville, siteWeb;
+	
+	public static void createAccount() {
+		
+	}
+	
+	public static void toConnect() {
+		
+		
+	}
+	
+	public static void modifyProfile() {
+		
+		
+	}
+	
+	
+	
+	
+	public String getSociete() {
+		return societe;
+	}
+	public void setSociete(String societe) {
+		this.societe = societe;
+	}
+	public String getVille() {
+		return ville;
+	}
+	public void setVille(String ville) {
+		this.ville = ville;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getNom() {
+		return nom;
+	}
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	public String getPrenom() {
+		return prenom;
+	}
+	public void setPrenom(String prenom) {
+		this.prenom = prenom;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	public String getSiteWeb() {
+		return siteWeb;
+	}
+	public void setSiteWeb(String siteWeb) {
+		this.siteWeb = siteWeb;
+	}
+	
+
+}
