@@ -1,0 +1,16 @@
+public class ConnectedUser extends User {
+
+	private int id;
+	
+	//
+	
+	public static void toConnect() {
+		
+	}
+	
+	public static void toRecommend() {
+		
+	}
+	
+
+}
